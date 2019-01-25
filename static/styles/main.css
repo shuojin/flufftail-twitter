@@ -1,0 +1,24 @@
+body {
+    background-image: url("../foggy_birds.png");
+    background-repeat: repeat;
+}
+
+.logo {
+    max-height: 40px;
+}
+
+.icon {
+    font-size: 10em;
+}
+
+.tweet-list {
+    margin-top: 0.5rem;
+}
+
+.message {
+    margin-top: 0.5rem;
+}
+
+.list-group {
+    margin: 0.4rem 0 0.4rem 0;
+}
